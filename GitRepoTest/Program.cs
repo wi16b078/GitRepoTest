@@ -11,6 +11,7 @@ namespace GitRepoTest
         static void Main(string[] args)
         {
             Console.WriteLine("Blubb");
+            Console.WriteLine("Blubb");
         }
     }
 }
